@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="F:\KinectModelControllerV21.cs">
+    <Files>
+      <File FileName="..\zigfutest1\Assets\ZigFu\Scripts\UserControls\ZigSkeleton.cs" Line="23" Column="30" />
+      <File FileName="F:\KinectModelControllerV21.cs" Line="178" Column="12" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="20" Column="2" />
+      <File FileName="Assets\Kinect\Recordings\control.js" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

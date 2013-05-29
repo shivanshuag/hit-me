@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Character Controllers\Sources\Scripts\ball_movement.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\collide_bound.js" Line="7" Column="25" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ball_movement.cs" Line="41" Column="5" />
+      <File FileName="Assets\Kinect\KinectModelControllerV2.cs" Line="145" Column="31" />
+      <File FileName="Assets\Kinect\KinectSensor.cs" Line="146" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
